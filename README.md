@@ -1,4 +1,4 @@
-Coin Counting By AI
+Coins Counter
 Coding by Sutthisak Muangsai
 
 เมื่อภ่ายภาพเหรียญลง Chat Bot ในไลน์ ระบบจะนับและแสดงจำนวนเหรียญที่มีทั้งหมด พร้อมทั้งอาจแสดงผลลัพธ์ผ่านแอปพลิเคชัน LINE ให้คุณทราบในแบบเรียลไทม์
